@@ -260,6 +260,8 @@ if __name__ == "__main__":
 ```python
 docker-compose up --build
 ```
+![Screenshot 2025-02-09 at 08.09.29.png](attachment:2d590386-f57d-44b0-9518-300f58d2d420:Screenshot_2025-02-09_at_08.09.29.png)
+
 
 To scale the numbers of consumer instances
 
