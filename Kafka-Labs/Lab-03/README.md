@@ -21,6 +21,8 @@ It works as parallel consumption so that if one of the consumer fails, another c
 
 ![image01.svg](https://raw.githubusercontent.com/nakibworkspace/kafkalab/171d3c957c5ad874ad73edc26bec0411f6bae23e/Kafka-Labs/Lab-03/images/image01.svg)
 
+
+## Project Structure
 ```
 project_directory/
 ├── docker-compose.yml
