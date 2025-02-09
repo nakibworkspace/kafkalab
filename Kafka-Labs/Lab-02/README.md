@@ -10,6 +10,8 @@ This lab gives us an overview on how can we setup Apache Kafka with Docker by cr
 2. Creating a Producer
 3. Creating a Consumer
 4. Setting up
+5. Testing
+6. Cleanup
 
 ### Creating a docker-compose.yml file
 
