@@ -19,7 +19,7 @@ A **consumer group** is a collection of consumer instances that work together 
 
 It works as parallel consumption so that if one of the consumer fails, another consumer will take it’s place to give a unpaused experience to the users. Also if a new consumer is added to the group Kafka will rebalance its partitions among the remaining consumers.
 
-![image01.svg](attachment:6107210b-7b79-40a9-a06e-e8af261add49:image01.svg)
+![image01.svg](https://raw.githubusercontent.com/nakibworkspace/kafkalab/171d3c957c5ad874ad73edc26bec0411f6bae23e/Kafka-Labs/Lab-03/images/image01.svg)
 
 ```
 project_directory/
@@ -260,7 +260,7 @@ if __name__ == "__main__":
 ```python
 docker-compose up --build
 ```
-![Screenshot 2025-02-09 at 08.09.29.png](attachment:2d590386-f57d-44b0-9518-300f58d2d420:Screenshot_2025-02-09_at_08.09.29.png)
+![Screenshot 2025-02-09 at 08.09.29.png](https://github.com/nakibworkspace/kafkalab/blob/main/Kafka-Labs/Lab-03/images/image02.png?raw=true)
 
 
 To scale the numbers of consumer instances
